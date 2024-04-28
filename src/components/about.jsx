@@ -31,10 +31,7 @@ function AboutUs({reverse , title , content , image  }){
            </div>
            <div style={reverse?{width:"100%"}:{}} className="section_About">
             <h1 className="up">{title || 'About Supplify International .'}</h1>
-            <p className='content_about'>{content || `Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
-                Expedita alias quas perspiciatis aliquam hic harum ducimus accusantium,
-                 temporibus vel omnis quisquam distinctio quidem pariatur ea, ab aperiam, blanditiis fugit! Repudiandae?
-                 temporibus vel omnis quisquam distinctio quidem pariatur ea, ab aperiam, blanditiis fugit! Repudiandae?`}</p>
+            <p className='content_about'>{content || `At Supplify International, we are dedicated to being your premier destination for sourcing top-quality wholesale products from around the world. With a commitment to excellence, we offer a diverse range of products across various categories to meet the needs of businesses worldwide. Backed by a team of industry experts and driven by a passion for customer satisfaction, we strive to provide unparalleled service and value to our clients. Discover the difference with Supplify International and unlock new opportunities for your business.`}</p>
            </div>
          
         </div>

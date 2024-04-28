@@ -25,10 +25,7 @@ function Footer() {
           <img className="up" src={logo} alt="" />
         </div>
         <div className="text up">
-          Let&apos;s navigate the complexities of wealth together, crafting a
-          personalized roadmap for your goals. From investments to retirement
-          planning, I&apos;m here to secure your prosperity. Let&apos;s start
-          building your brighter tomorrow today.
+        Supplify International. - Your Trusted Partner for Global Sourcing. Explore our wide range of high-quality wholesale products and experience exceptional service. Contact us today to streamline your sourcing process and take your business to new heights.
         </div>
       </div>
       <div className="strand ">

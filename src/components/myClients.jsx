@@ -39,12 +39,10 @@ function MyClientSays() {
             <div className="content">
               <p className="content_title">Elizabeth Versfeld</p>
               <p className="content_content">
-                {" "}
-                I&apos;m incredibly grateful for Jane Carter&apos;s expertise in tax planning. Her strategic guidance and 
-                personalized approach have been invaluable in optimizing my tax strategy. With her help, i&apos;ve been able to navigate complex tax laws and maximize my savings
-                while ensuring compliance. Jane Carter is not just a financial advisor but a trusted partner who is commited to my
-                financialwell-being. I highly recomment their services to anyone looking to achieve greater financial efficiency and peace of mind.
-              </p>
+                {`
+                I've been sourcing products from Supplify International for years now, and I couldn't be happier with their service. Not only do they offer a wide range of high-quality products from around the world, but their customer service is exceptional. Whenever I have a question or need assistance, their team is always quick to respond and incredibly helpful. If you're 
+                looking for a reliable wholesale supplier, look no further!
+                `}</p>
             </div>
           </div>
         </div>
@@ -57,14 +55,7 @@ function MyClientSays() {
             <div className="content">
               <p className="content_title">Duncan Anderson</p>
               <p className="content_content">
-                I started investing in unit trusts seven years ago via Jane
-                ellen carter. Straight away I was impressed with the
-                transparency and the honesty that I felt when dealing with her
-                team. My queries and questions are always promptly replied to,
-                and the advice from her has paid dividends. It&apos;s good to
-                feel that your advisers have your interests at heart and that
-                you are not treated as a client number. Thank you Jane ellen
-                carter for a job well done and putting your Clients first.
+                 {`As a business owner, finding the right products at the right price is crucial for my success. Supplify International has been instrumental in helping me achieve just that. Their extensive range of products spans across various categories, allowing me to find everything I need in one place. What's more, their prices are incredibly competitive, giving me the edge I need in a competitive market. Thank you for consistently delivering exceptional value!`}
               </p>
             </div>
           </div>
@@ -78,12 +69,7 @@ function MyClientSays() {
             <div className="content">
               <p className="content_title">Sunu Varughese</p>
               <p className="content_content">
-                {" "}
-
-                
-I am a regular trader who recently looked to optimise my leverage and
-lower brokerage fees by trading more often. I wanted to quit my full-time job to pursue trading full time but wasn&apos;t making enough from it at first. I tried multiple brokerage companies to get tips and information, but none were helping me. Until I discovered Jane Ellen Carter, which offered some of the best expert trading strategies out there. She gave me plenty of advice and information to help me improve the success of my investments. I have since quit my day job and trade full-
-time
+                {`Supplify International. has been my go-to partner for sourcing products from around the world. Their commitment to quality, reliability, and professionalism is unmatched. Whether it's electronics, clothing, or home goods, I can always count on them to deliver top-notch products on time and within budget. Working with them has streamlined my sourcing process and allowed me to focus on growing my business. Highly recommended!`}
               </p>
             </div>
           </div>

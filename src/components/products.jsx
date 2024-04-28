@@ -24,9 +24,7 @@ function Products() {
       <br />
       <h1 className="up">Products We Supply</h1>
       <p className="up">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae natus
-        aliquam neque eos veniam id ipsum dolor modi sapiente porro inventore
-        repellendus nostrum, ab magni fuga incidunt commodi. Provident, atque.
+       {`At Supplify International, we pride ourselves on offering a comprehensive range of high-quality wholesale products sourced from around the globe. From electronics to clothing, home goods to accessories, we supply a diverse selection of products to meet the needs of businesses across various industries. With a focus on quality, reliability, and affordability, our carefully curated inventory ensures that our clients have access to the best products on the market. Partner with us and discover a world of possibilities for your business.`}
       </p>
 
       <div className="product_images">
@@ -35,7 +33,7 @@ function Products() {
           <div className="more_p">
             <div className="name name_">
               <p>Medical Drugs</p>
-              <small>Lorem ipsum dolor sit consectetur adipisicing.</small>
+              <small>We offer a diverse range of quality medicines.</small>
             </div>
           </div>
         </div>
@@ -44,7 +42,7 @@ function Products() {
           <div className="more_p">
             <div className="name name_">
               <p>Electronics</p>
-              <small>Lorem ipsum dolor sit consectetur adipisicing.</small>
+              <small>We offer durable and quality electronics.</small>
             </div>
           </div>
         </div>
@@ -53,7 +51,7 @@ function Products() {
           <div className="more_p">
             <div className="name name_">
               <p>Clothing</p>
-              <small>Lorem ipsum dolor sit consectetur adipisicing.</small>
+              <small>We offer a diverse range of quality clothing.</small>
             </div>
           </div>
         </div>
