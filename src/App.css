@@ -90,11 +90,16 @@
     about section
     
     */
+        .display {
+            display: block !important;
+            margin-top: 1rem !important;
+            margin-bottom: 2rem;
+        }
         .about_left {
             display: none;
         }
         .about_right {
-            width: 100% !important;
+            width: 100%;
             padding-left: 6%;
         }
         .skillsetscard {
