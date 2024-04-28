@@ -12,6 +12,8 @@
             top: 0;
             z-index: 1000;
             width: 100%;
+            padding-top: 4% !important;
+            padding-bottom: 4% !important;
         }
         .header .cta {
             display: none !important;
@@ -29,13 +31,13 @@
             left: 0;
             top: 90%;
             /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
-            width: 95%;
+            width: 88%;
             justify-content: flex-start;
             align-items: flex-start;
             margin-left: 2.5%;
             margin-right: 2.5%;
             border-radius: 5px;
-            background-color: #ebe9e9;
+            background-color: #534145;
             opacity: 1;
             z-index: 100;
         }
@@ -96,6 +98,25 @@
             padding-left: 6%;
         }
         .skillsetscard {
+            grid-template-columns: 1fr !important;
+        }
+        .ceo,
+        .ceo_n {
+            display: none !important;
+        }
+        .section_About {
+            padding-left: 6%;
+        }
+        .about_top {
+            margin-top: 40% !important;
+        }
+        .section_About h1 {
+            font-size: 2rem !important;
+        }
+        .products h1 {
+            font-size: 2rem !important;
+        }
+        .product_images {
             grid-template-columns: 1fr !important;
         }
         /* 

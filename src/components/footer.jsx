@@ -40,7 +40,7 @@ function Footer() {
       <div className="strand">
         <p className="title up">Contacts</p>
         <ul className="up">
-          <a href="mailto:info@janeellencarter.com"><li><FaEnvelope /> info@supplifyinternational.com</li></a>
+          <a href="mailto:info@supplifyinternational.com"><li style={{wordWrap:'break-word'}}><FaEnvelope /> in@supplifyinternational.com</li></a>
           <a href="tel:+12818239633"><li><FaPhone /> +1 281-823-9633</li></a>
           <li><FaAddressCard /> ONE BRYANT PARK NEW YORK, NY 10036</li>
         </ul>

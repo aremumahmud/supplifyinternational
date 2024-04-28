@@ -10,6 +10,11 @@
     margin-bottom: .8rem;
 }
 
+.products p {
+    letter-spacing: .5px;
+    word-spacing: 2px;
+}
+
 .product_images {
     /* border: 1px solid; */
     margin-top: 3rem;

@@ -81,7 +81,7 @@ function App() {
       <MyClientSays />  
       <br /><br />
       <Footer />
-      <CopyWright />
+      <CopyWright /> 
       {/* 
       <br />
       <br />
