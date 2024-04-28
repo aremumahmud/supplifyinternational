@@ -1,0 +1,177 @@
+    @media (max-width:481px) {
+        /* 
+    
+    for the header component 
+    
+    */
+        /* .menus, */
+        .header {
+            background-color: #ebe9e9;
+            ;
+            position: fixed;
+            top: 0;
+            z-index: 1000;
+            width: 100%;
+        }
+        .header .cta {
+            display: none !important;
+        }
+        .header .hamburger {
+            display: block;
+            border: 1px solid;
+            padding: .3rem 1.0rem .0rem 1.0rem;
+            border-radius: 4px;
+            font-size: 1.5rem;
+        }
+        .header .ul1 {
+            flex-direction: column;
+            position: absolute;
+            left: 0;
+            top: 90%;
+            /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+            width: 95%;
+            justify-content: flex-start;
+            align-items: flex-start;
+            margin-left: 2.5%;
+            margin-right: 2.5%;
+            border-radius: 5px;
+            background-color: #ebe9e9;
+            opacity: 1;
+            z-index: 100;
+        }
+        .header .menus {
+            display: none;
+        }
+        .header .menus1 {
+            display: block;
+        }
+        /* 
+    
+    for the hero section
+    
+    */
+        .hero_right {
+            display: none !important;
+        }
+        .hero_left {
+            width: 100% !important;
+            margin-top: 30%;
+        }
+        .hero_left .text .name p {
+            font-size: 2.2rem !important;
+            padding: 0;
+            margin: 0;
+            font-weight: 400;
+            width: 100% !important;
+        }
+        /* 
+    
+    
+    for proffesion
+    
+    
+    */
+        .profession {
+            flex-direction: column;
+        }
+        .profession .some_summary {
+            flex-direction: column;
+        }
+        .profession .summary {
+            margin-bottom: 1.5rem;
+        }
+        .profession .summary p:first-child {
+            font-size: 1.6rem !important;
+        }
+        /* 
+    
+    about section
+    
+    */
+        .about_left {
+            display: none;
+        }
+        .about_right {
+            width: 100% !important;
+            padding-left: 6%;
+        }
+        .skillsetscard {
+            grid-template-columns: 1fr !important;
+        }
+        /* 
+    
+    education 
+    
+    */
+        .sp1 {
+            font-size: 1rem !important;
+            gap: .5rem !important;
+        }
+        .education .exams_dates {
+            flex-direction: column;
+            align-items: flex-start !important;
+            gap: .1rem !important;
+        }
+        .education .exams_dates span {
+            font-size: small !important;
+            opacity: .7 !important;
+            margin-bottom: .6rem !important;
+        }
+        /* 
+    
+    client 
+    
+    */
+        .client_title {
+            font-size: 1.6rem !important;
+        }
+        .client .some_summary {
+            flex-direction: column;
+            display: flex !important;
+        }
+        /* 
+    
+    
+    contact
+    
+    */
+        .form .image1 {
+            display: none;
+        }
+        .form form,
+        input {
+            width: 93% !important;
+        }
+        .form form,
+        textarea,
+        button {
+            width: 95% !important;
+        }
+        .form form button {
+            width: 100% !important;
+        }
+        /* 
+    
+    footer*/
+        .footer_summary {
+            display: none;
+        }
+        .footer {
+            gap: 10% !important;
+            word-wrap: break-word;
+        }
+        .footer .strand .title {
+            font-size: 1.2rem !important;
+            font-weight: 500;
+            margin-bottom: 0;
+        }
+        /* stats */
+        .stats .some {
+            display: grid !important;
+            gap: 30px 30px !important;
+            grid-template-columns: 1fr 1fr;
+        }
+        .mobile {
+            display: flex !important;
+        }
+    }

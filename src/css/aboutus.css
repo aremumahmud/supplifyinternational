@@ -1,0 +1,86 @@
+.about {
+    margin-top: 13%;
+    /* border: 1px solid; */
+    display: flex;
+    margin-left: 6%;
+    margin-right: 6%;
+    font-family: "Work Sans", sans-serif;
+    gap: 10%;
+    margin-bottom: 7%;
+}
+
+.ceo {
+    width: 100%;
+    position: relative;
+}
+
+.ceo img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.section_About h1 {
+    font-weight: 400;
+    font-size: 3rem;
+}
+
+.more {
+    border-radius: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 99%;
+    box-shadow: rgba(0, 0, 0, 0.8) 0px -90px 36px -28px inset;
+}
+
+.name {
+    position: relative;
+    top: 80%;
+    left: 4%;
+}
+
+.name_ p {
+    padding: 0;
+    margin: 0;
+    color: #fff;
+    opacity: .9;
+}
+
+.name h1 {
+    padding: 0;
+    margin: 0;
+    color: #fff;
+    opacity: 1;
+}
+
+.content_about {
+    line-height: 1.5rem;
+    word-spacing: 5px;
+}
+
+.sticky_ball1 {
+    width: 4rem;
+    height: 4rem;
+    background-color: #534145;
+    border-radius: 50%;
+    position: absolute;
+    box-shadow: rgba(0, 0, 0, 0.86) 0px 1px 4px;
+    top: -5%;
+    left: -5%;
+}
+
+.sticky_ball2 {
+    width: 4rem;
+    height: 4rem;
+    background-color: #534145;
+    border-radius: 50%;
+    position: absolute;
+    top: 90%;
+    box-shadow: rgba(0, 0, 0, 0.86) 0px 1px 4px;
+    left: 90%;
+}
+
+.shadow {
+    box-shadow: rgba(0, 0, 0, 0.86) 0px 1px 4px;
+}

@@ -1,0 +1,35 @@
+.sp1 {
+    font-size: 1.3rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: .5rem;
+}
+
+.education .exams_dates {
+    justify-content: space-between !important;
+}
+
+.education .exams_dates span {
+    font-size: large;
+    opacity: .8;
+}
+
+.op8 {
+    width: 90%;
+}
+
+.education .card {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.37);
+    border-radius: 0px 0px 0px 0px !important;
+}
+
+.education .card:first-child {
+    border-radius: 10px 10px 0px 0px !important;
+}
+
+.education .card:nth-child(4) {
+    border-radius: 0px 0px 10px 10px !important;
+    border-bottom: none;
+}
