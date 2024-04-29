@@ -78,7 +78,7 @@ function App() {
       <br id='services'/>
       <Products />
       <br  id="reviews" /><br /><br /><br /><br />
-      <MyClientSays />  
+      <MyClientSays />   <Stats />
       <br /><br />
       <Footer />
       <CopyWright /> 
@@ -93,7 +93,7 @@ function App() {
       <Services />
       <Education />
       
-      <Stats />
+     
       <Contact />
     
     */}
