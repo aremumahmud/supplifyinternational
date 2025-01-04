@@ -40,7 +40,7 @@ function MyClientSays() {
               <p className="content_title">Elizabeth Versfeld</p>
               <p className="content_content">
                 {`
-                I've been sourcing products from Supplify International for years now, and I couldn't be happier with their service. Not only do they offer a wide range of high-quality products from around the world, but their customer service is exceptional. Whenever I have a question or need assistance, their team is always quick to respond and incredibly helpful. If you're 
+                I've been sourcing products from SupplySphere International for years now, and I couldn't be happier with their service. Not only do they offer a wide range of high-quality products from around the world, but their customer service is exceptional. Whenever I have a question or need assistance, their team is always quick to respond and incredibly helpful. If you're 
                 looking for a reliable wholesale supplier, look no further!
                 `}</p>
             </div>
@@ -55,7 +55,7 @@ function MyClientSays() {
             <div className="content">
               <p className="content_title">Duncan Anderson</p>
               <p className="content_content">
-                 {`As a business owner, finding the right products at the right price is crucial for my success. Supplify International has been instrumental in helping me achieve just that. Their extensive range of products spans across various categories, allowing me to find everything I need in one place. What's more, their prices are incredibly competitive, giving me the edge I need in a competitive market. Thank you for consistently delivering exceptional value!`}
+                 {`As a business owner, finding the right products at the right price is crucial for my success. SupplySphere International has been instrumental in helping me achieve just that. Their extensive range of products spans across various categories, allowing me to find everything I need in one place. What's more, their prices are incredibly competitive, giving me the edge I need in a competitive market. Thank you for consistently delivering exceptional value!`}
               </p>
             </div>
           </div>
@@ -69,7 +69,7 @@ function MyClientSays() {
             <div className="content">
               <p className="content_title">Sunu Varughese</p>
               <p className="content_content">
-                {`Supplify International. has been my go-to partner for sourcing products from around the world. Their commitment to quality, reliability, and professionalism is unmatched. Whether it's electronics, clothing, or home goods, I can always count on them to deliver top-notch products on time and within budget. Working with them has streamlined my sourcing process and allowed me to focus on growing my business. Highly recommended!`}
+                {`SupplySphere International. has been my go-to partner for sourcing products from around the world. Their commitment to quality, reliability, and professionalism is unmatched. Whether it's electronics, clothing, or home goods, I can always count on them to deliver top-notch products on time and within budget. Working with them has streamlined my sourcing process and allowed me to focus on growing my business. Highly recommended!`}
               </p>
             </div>
           </div>

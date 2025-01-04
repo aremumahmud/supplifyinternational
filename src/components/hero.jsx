@@ -31,7 +31,7 @@ function Hero(){
                 </div> */}
                 <div className="text">
                     <div className="name animate__animated animate__fadeInLeft">
-                        <p>Welcome to Supplify</p>
+                        <p>Welcome to SupplySphere</p>
                         <p></p>
                         <p>International</p>
                     </div>

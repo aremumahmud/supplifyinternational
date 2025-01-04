@@ -22,6 +22,7 @@ import AboutUs from './components/about'
 // import { useEffect } from 'react'
 import about_image from './assets/ph2.jpg'
 import Products from './components/products'
+import Team from './components/ourteam'
 
 function successMessage(){
   Store.addNotification({
@@ -74,12 +75,13 @@ function App() {
       <br /><br /><br />
       <Hero /> 
       <AboutUs id={"about"}/>
-      <AboutUs content={`Ethan Charles Moore, our esteemed CEO at Supplify International, brings a wealth of experience and leadership to our team. With a visionary mindset and a dedication to excellence, Ethan leads our company with integrity and innovation. His relentless pursuit of customer satisfaction and strategic vision drives our commitment to providing top-quality wholesale products and exceptional service. Under Ethan's guidance, Supplify International continues to thrive as a trusted partner in the global sourcing industry, empowering businesses to succeed in today's competitive market.`} title={'About Our CEO'} shadow={true}  reverse={true} image={about_image}/>
+      <AboutUs content={`Ethan Charles Moore, our esteemed CEO at SupplySphere International, brings a wealth of experience and leadership to our team. With a visionary mindset and a dedication to excellence, Ethan leads our company with integrity and innovation. His relentless pursuit of customer satisfaction and strategic vision drives our commitment to providing top-quality wholesale products and exceptional service. Under Ethan's guidance, SupplySphere International continues to thrive as a trusted partner in the global sourcing industry, empowering businesses to succeed in today's competitive market.`} title={'About Our CEO'} shadow={true}  reverse={true} image={about_image}/>
       <br id='services'/>
       <Products />
       <br  id="reviews" /><br /><br /><br /><br />
       <MyClientSays />   <Stats />
       <br /><br />
+      <Team />
       <Footer />
       <CopyWright /> 
       {/* 
